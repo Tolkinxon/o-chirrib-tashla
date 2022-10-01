@@ -8,4 +8,4 @@ console.log('hello world');
 
 let myName = 90;
 
-let myHisName = 30;
+let myHisName = 60;
