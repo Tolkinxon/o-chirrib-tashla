@@ -6,4 +6,4 @@
 console.log('hello world');
 console.log('hello world');
 
-let myName;
+let myName = 90;
